@@ -19,7 +19,7 @@ const CandidateInfo = () => {
                     <td style={{ width: '90pt', border: '1pt solid #CCCCCC' }}>
                         <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>250410218740</p>
                     </td>
-                    <td style={{ width: '90pt', border: '1pt solid #CCCCCC' }} rowSpan="5">
+                    <td style={{ width: '90pt', border: '1pt solid #CCCCCC' }} className='Qr-container' rowSpan="5">
                         <table border="0" cellSpacing="0" cellPadding="0" style={{ margin: '0' }}>
                             <tr>
                                 <td style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
